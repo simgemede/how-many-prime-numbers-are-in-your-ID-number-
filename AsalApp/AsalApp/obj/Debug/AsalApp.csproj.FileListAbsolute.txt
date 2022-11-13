@@ -1,0 +1,11 @@
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\bin\Debug\AsalApp.exe.config
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\bin\Debug\AsalApp.exe
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\bin\Debug\AsalApp.pdb
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.csproj.AssemblyReference.cache
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.Form1.resources
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.Properties.Resources.resources
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.csproj.GenerateResource.cache
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.csproj.CoreCompileInputs.cache
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.exe
+C:\Users\simge\OneDrive\Masaüstü\oop\AsalApp\AsalApp\obj\Debug\AsalApp.pdb
